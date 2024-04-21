@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.htwberlin.webtechProjekt.WebtechProjektApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-21T13:47:27" hostname="Air-von-Kaya.fritz.box" time="0.357">
+  <properties/>
+  <testcase name="contextLoads()" classname="de.htwberlin.webtechProjekt.WebtechProjektApplicationTests" time="0.357"/>
+  <system-out><![CDATA[15:47:27.254 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [de.htwberlin.webtechProjekt.WebtechProjektApplicationTests]: WebtechProjektApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+15:47:27.317 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration de.htwberlin.webtechProjekt.WebtechProjektApplication for test class de.htwberlin.webtechProjekt.WebtechProjektApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.5)
+
+2024-04-21T15:47:27.456+02:00  INFO 8717 --- [webtechProjekt] [    Test worker] d.h.w.WebtechProjektApplicationTests     : Starting WebtechProjektApplicationTests using Java 17.0.7 with PID 8717 (started by kayagencer in /Users/kayagencer/Documents/GitHub/WebtechProjekt)
+2024-04-21T15:47:27.456+02:00  INFO 8717 --- [webtechProjekt] [    Test worker] d.h.w.WebtechProjektApplicationTests     : No active profile set, falling back to 1 default profile: "default"
+2024-04-21T15:47:27.904+02:00  INFO 8717 --- [webtechProjekt] [    Test worker] d.h.w.WebtechProjektApplicationTests     : Started WebtechProjektApplicationTests in 0.532 seconds (process running for 0.969)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
