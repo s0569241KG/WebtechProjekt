@@ -1,11 +1,7 @@
 # WebtechProjekt
 
-Terminsystem für ein Massagesalon.
+Webanwendung um geteilte Rechnungen zu erstellen für zb. Reisegruppen.
 
-1. Startseite des Massagesalons
-  - Bilder etc.
-  - Auswahlmöglichkeit zwischen Terminbuchung, Terminabsage und Terminanzeigen
-  - möglichkeit verfügbare Termine in einem Kalendersystem anzeigen zulassen
-  - Abruf des Termins aus der Datenbank durch einmaliger TerminID
-    
-    
+In dem Programm ist es Möglich einzelne Rechnungen für eine Gruppe zu erstellen und die anschließend zu sammeln.
+Auf den Rechnungen steht jeweils eine Rechnungsnummer, jede beteiligte Person, der Preis der Rechnung und der Anteil pro Person. 
+
